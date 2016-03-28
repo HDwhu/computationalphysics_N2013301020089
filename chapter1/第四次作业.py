@@ -15,8 +15,8 @@ for i in range(int(end_time / dt)):
 x = t
 y = X
 plt.plot(x, y)
-plt.xlabel('time')
-plt.ylabel('distance')
-plt.title('SPEED')
+plt.xlabel('time/s')
+plt.ylabel('distance/m')
+plt.title('SPEED/(m/s)')
 plt.legend()
 plt.show()
