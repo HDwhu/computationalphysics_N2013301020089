@@ -22,6 +22,6 @@ matplotlib
 ![chapter]()
 #结果分析#
 V随t的变化而变化，是有关t的正比例函数，V=-9.8t
-![图片]()
+![图片](https://raw.githubusercontent.com/HDwhu/computationalphysics_N2013301020089/master/chapter2/figure_1.png)
 #致谢#
 感谢老师提供的模板！
