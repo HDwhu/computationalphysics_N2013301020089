@@ -19,7 +19,7 @@ V初始值为0，g=9.8,dt=1
 #作图工具#
 matplotlib
 #程序#
-![chapter]()
+![chapter](https://raw.githubusercontent.com/HDwhu/computationalphysics_N2013301020089/master/chapter2/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.py)
 #结果分析#
 V随t的变化而变化，是有关t的正比例函数，V=-9.8t
 ![图片](https://raw.githubusercontent.com/HDwhu/computationalphysics_N2013301020089/master/chapter2/figure_1.png)
