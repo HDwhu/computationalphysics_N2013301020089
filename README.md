@@ -7,6 +7,8 @@
 ![chapter1](https://github.com/HDwhu/computationalphysics_N2013301020089/tree/master/chapter1)
 ###第五次作业
 ![chapter2](https://github.com/HDwhu/computationalphysics_N2013301020089/tree/master/chapter2)
+###第六次作业
+![第六次作业](https://www.zybuluo.com/mdeditor#401365-full-reader)
 
                                                                        6666  666666
                                                           66  6     66666  666666   6
