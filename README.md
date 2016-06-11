@@ -1,6 +1,10 @@
 #Computationalphysics#
 霍达 物基二班 2013301020089
 #作业#
+###第一次作业
+安装的linux系统及python2.7
+###第二次作业
+安装了贺翀师兄写的vim插件Thesaurus Query，并点赞。
 ###第三次作业
 ![第三次作业](https://github.com/HDwhu/computationalphysics_N2013301020089/tree/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A)
 ###第四次作业
